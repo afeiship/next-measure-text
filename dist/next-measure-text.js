@@ -2,7 +2,7 @@
  * name: next-measure-text
  * url: https://github.com/afeiship/next-measure-text
  * version: 1.0.0
- * date: 2019-09-05T02:50:39.547Z
+ * date: 2019-09-16T04:02:53.598Z
  * license: MIT
  */
 
@@ -19,7 +19,7 @@
   };
 
   if (typeof module !== 'undefined' && module.exports) {
-    module.exports = nx.MeasureText;
+    module.exports = nx.measureText;
   }
 })();
 
